@@ -1,0 +1,36 @@
+body {
+    background-color: beige;
+    font-family: 'Trebuchet MS';
+}
+
+h1 {
+    font-weight:lighter;
+    color: rgb(0, 108, 49);
+}
+
+h2 {
+    font-weight:lighter;
+    text-decoration:underline;
+    text-decoration-color: rgb(135, 112, 81);
+    text-decoration-thickness: 1.5px;
+}
+
+a {
+    color: rgb(109, 109, 109);
+}
+
+a:visited {
+    color: rgb(133, 133, 133);
+}
+
+p, li {
+    color: rgb(108, 45, 75);
+}
+
+img {
+    border: 1px black solid;
+}
+
+span {
+    color: rgb(149, 182, 0); /* 0 182 16 */
+}
